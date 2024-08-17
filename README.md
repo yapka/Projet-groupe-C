@@ -22,3 +22,9 @@ Liste des principales fonctionnalités de votre projet :
 ```bash
 # Clonez le dépôt
 git clone https://github.com/yapka/Projet-CURAT-Groupe-C-.git
+
+
+## **Auteurs**
+
+* **TRAORE NIBON ZANON**
+* **KOUAKOU M\'me Nathanael**  [Lien Github](https://github.com/yapka/)

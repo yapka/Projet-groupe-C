@@ -1,31 +1,24 @@
-# Projet de groupe C CURAT
+# **Projet de groupe C CURAT**
 
-## Description
+## **Description**
 
 Ce projet vise à développer une application web interactive pour la gestion et la visualisation des ressources naturelles, telles que les forêts, les rivières, et les zones protégées. L'application utilise la bibliothèque Leaflet.js pour afficher des cartes interactives avec des données géospatiales au format GeoJSON.
 
-## Fonctionnalités
+## **Fonctionnalités**
 
 Liste des principales fonctionnalités de votre projet :
-*   Visualiser les ressources naturelles sur une carte 
-*   Analyser les différentes ressources naturelles en superposant des couches de données.
+* **Visualisation** des ressources naturelles sur une carte interactive.
+* **Analyse** des différentes ressources naturelles en superposant des couches de données.
 
+## **Technologies Utilisées**
 
-## Technologies Utilisées :
+* **Leaflet.js** et **Turf.js** : Pour la manipulation et l'analyse des données géospatiales.
+* **HTML5/CSS3** : Pour la structure et le style de l'interface utilisateur.
+* **Tailwind CSS** : Pour un design moderne et réactif.
+* **GeoJSON** : Pour le format des données géospatiales.
 
-*   Leaflet.js et turf.js
-*   HTML5/CSS3
-*   Tailwind css
-*   GeoJSON
+## **Installation**
 
 ```bash
 # Clonez le dépôt
-
-[git clone https://github.com/yapka/Projet-CURAT-Groupe-C-.git](https://github.com/yapka/Projet-CURAT-Groupe-C-)
-
-
-**Auteurs**
-
-
-*   TRAORE NIBON ZANON
-*   KOUAKOU M\'ME NATHANAEL *texte en italique* [Lien Github](https://github.com/yapka/)
+git clone https://github.com/yapka/Projet-CURAT-Groupe-C-.git

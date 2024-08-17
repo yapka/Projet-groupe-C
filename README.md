@@ -23,6 +23,7 @@ Liste des principales fonctionnalités de votre projet :
 # Clonez le dépôt
 git clone https://github.com/yapka/Projet-CURAT-Groupe-C-.git
 
+```
 
 ## **Auteurs**
 

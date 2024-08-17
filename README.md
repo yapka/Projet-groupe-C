@@ -1,4 +1,4 @@
-# **Projet de groupe C CURAT**
+# **Projet du groupe C CURAT**
 
 ## **Description**
 
@@ -21,7 +21,7 @@ Liste des principales fonctionnalités de votre projet :
 
 ```bash
 # Clonez le dépôt
-git clone https://github.com/yapka/Projet-CURAT-Groupe-C-.git
+git clone https://github.com/yapka/Projet-groupe-C.git
 
 ```
 

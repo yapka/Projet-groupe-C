@@ -25,7 +25,7 @@ Clonez le dépôt
 
 ```bash
 # Clonez le dépôt
-git clone https://github.com/yapka/Projet-groupe-C.git
+git clone https://github.com/yapka/Projet-groupeC.git
 
 ```
 

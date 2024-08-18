@@ -3,6 +3,7 @@
 
 ![Texte Alternatif](img/foret.png)
 
+![Texte Alternatif](img/couche.png)
 ## **Description**
 
 Ce projet vise à développer une application web interactive pour la gestion et la visualisation des ressources naturelles, telles que les forêts, les rivières, et les zones protégées. L'application utilise la bibliothèque Leaflet.js pour afficher des cartes interactives avec des données géospatiales au format GeoJSON.

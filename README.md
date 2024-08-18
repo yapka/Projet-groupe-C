@@ -1,7 +1,7 @@
 ## **Projet de Groupe C
 ![Texte Alternatif](img/vue.png)
 
-![Texte Alternatif](img/Screenshot from 2024-08-18 19-45-41.png)
+![Texte Alternatif](img/foret.png)
 
 ## **Description**
 
